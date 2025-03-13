@@ -1,6 +1,6 @@
-# Match3-Unity-Intern-Test2025
+# Match3-Unity-Intern-Test2025  
 
-## Progress  
-- **Task 1:** Completed ✅  
-- **Task 2:** Completed ✅  
-- **Task 3:** The second request is not yet completed ❌  
+### Note:  
+- Task 1: I have completed it fully.  ✅ 
+- Task 2: I have completed it fully.  ✅ 
+- Task 3: I have not yet completed the second request.  
